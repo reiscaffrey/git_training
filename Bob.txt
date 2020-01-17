@@ -1,1 +1,3 @@
-Hi! I'm Bob. I'm a newly created file.
+Hey, I'm Bob. I'm a newly created file.
+
+Adding a new paragraph to the text file to make a change.
